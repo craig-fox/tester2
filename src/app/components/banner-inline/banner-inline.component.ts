@@ -5,6 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './banner-inline.component.html',
   styleUrls: ['./banner-inline.component.css']
 })
-export class BannerInlineComponent{
-  title = 'Test Tour of Heroes'
+
+export class BannerInlineComponent {
+  title = 'Test Tour of Heroes';
 }

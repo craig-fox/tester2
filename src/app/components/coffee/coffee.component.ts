@@ -10,7 +10,5 @@ export class CoffeeComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    
   }
-
 }
